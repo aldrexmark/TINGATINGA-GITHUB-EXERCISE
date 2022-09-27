@@ -101,3 +101,9 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+void newFunction() {
+		  print("This is a new function");
+		}
+
+
